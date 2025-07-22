@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Simon
 
-<!--
-**LlewopNomis/LlewopNomis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious technologist | Django developer | Financial systems enthusiast.
 
-Here are some ideas to get you started:
+Currently developing **Treeview**, a Django app for visualizing financial data and helping businesses manage budgets better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I share what I learn about software craftsmanship, automation, and workflows:
+- 📖 [Medium](https://medium.com/@simon.powell_94104)
+- 🐦 [Twitter/X](https://twitter.com/@SimonPowell915)  
+
+## 🔧 Current focus
+- Building robust tools for financial data management
+- Writing clean, maintainable Django code
+- Open-source contributions & collaboration
+
+## 📫 Contact
+Always open to connecting — feel free to reach out via Medium or Twitter/X.
