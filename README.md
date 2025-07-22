@@ -6,7 +6,7 @@ Currently developing **Treeview**, a Django app for visualizing financial data a
 
 I share what I learn about software craftsmanship, automation, and workflows:
 - 📖 [Medium](https://medium.com/@simon.powell_94104)
-- 🐦 [Twitter/X](https://twitter.com/@SimonPowell915)  
+- 🐦 [Twitter/X](https://twitter.com/@LlewopNomis)  
 
 ## 🔧 Current focus
 - Building robust tools for financial data management
