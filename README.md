@@ -14,4 +14,4 @@ I share what I learn about software craftsmanship, automation, and workflows:
 - Open-source contributions & collaboration
 
 ## 📫 Contact
-Always open to connecting — feel free to reach out via [Medium](https://medium.com/@LlewopNomis) or [Medium](https://medium.com/@LlewopNomis).
+Always open to connecting — feel free to reach out via [Medium](https://medium.com/@LlewopNomis) or [Twitter/X](https://twitter.com/@LlewopNomis).
